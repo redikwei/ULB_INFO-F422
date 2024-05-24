@@ -18,10 +18,7 @@ The dataset used for this project is sourced from the [Zindi Urban Air Pollution
 - `SampleSubmission_xgBoost.csv`: Sample submission file using the XGBoost model.
 
 ## Usage
-**Run the Jupyter Notebook (Jupyter able to run R code):**
-    ```sh
-    jupyter notebook main.ipynb
-    ```
+Run the Jupyter Notebook (Jupyter able to run R code)
 
 ## Model Training and Evaluation
 The project includes training and evaluation of different machine learning models. Key steps include:
