@@ -19,14 +19,3 @@ The dataset used for this project is sourced from the [Zindi Urban Air Pollution
 
 ## Usage
 Run the Jupyter Notebook (Jupyter able to run R code)
-
-## Model Training and Evaluation
-The project includes training and evaluation of different machine learning models. Key steps include:
-
-1. **Data Preprocessing:** Handling missing values, feature engineering, and scaling.
-2. **Model Training:** Training Random Forest and XGBoost models on the dataset.
-3. **Evaluation:** Assessing model performance using metrics such as RMSE, MAE, and R².
-
-## Results
-- The `SampleSubmission_randomforest.csv` and `SampleSubmission_xgBoost.csv` files contain the prediction results of the respective models.
-- Detailed analysis and results are available in the `main.ipynb` notebook.
