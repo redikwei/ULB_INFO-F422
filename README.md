@@ -1,7 +1,8 @@
 # Urban Air Pollution Prediction
 
 ## Authors
-- [Your Name]
+- Hongdu WEI
+- Michael KAHLA
 
 ## Overview
 This project aims to predict urban air pollution levels using various machine learning models, including Random Forest and XGBoost.
