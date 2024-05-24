@@ -5,7 +5,7 @@
 - Michael KAHLA
 
 ## Overview
-This project aims to predict urban air pollution levels using various machine learning models, including Random Forest and XGBoost. For tge selftest part, it is complete work by Hongdu WEI and it is the answer to all the R coding questions posted on UV.
+This project aims to predict urban air pollution levels using various machine learning models, including Random Forest and XGBoost. For the selftest part, it is complete work of Hongdu WEI and it is the answer to all the R coding questions posted on UV.
 
 ## Dataset
 The dataset used for this project is sourced from the [Zindi Urban Air Pollution Challenge](https://zindi.africa/competitions/zindiweekendz-learning-urban-air-pollution-challenge).
